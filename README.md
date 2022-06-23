@@ -14,7 +14,7 @@ Step4 retrieve the last stored values from the database and display it to the us
 
 ![cp](cp.png)
 
-After pressing the desired direction for the robot, you will be navigated to the response JSP page to notify you with the progress of your request.
+After pressing the desired direction for the robot, you will be navigated to the responsive JSP page to notify you with the progress of your request.
 For example pressing the up arrow will retrieve and print the "Forward" string value from the DB as shown in the picture below, and the stop button will retrieve and print the "Stop" value, likewise other arrows.
 
 ![for](for.png)
